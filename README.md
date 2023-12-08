@@ -1,8 +1,12 @@
 # Project-final-ArtShopWeb
+
 Final Project_WebProgramming
-Project web bán tranh + database 
+
+Src code web bán tranh + database
+ 
 Chạy file sql trước để tạo local database.
-Trong file src/main/java/com.artshopweb/utils/ConstantUtils
+
+Trong file src/main/java/com.artshopweb/utils/ConstantUtils.
     Thay đổi tên server name, user name và database password theo cài đặt trên SQL để có thể kết nối vào database"
     public interface ConstantUtils {
     int DB_PORT = 3306;
