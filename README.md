@@ -22,4 +22,7 @@ Trong file src/main/java/com.artshopweb/utils/ConstantUtils.
    String DB_PASSWORD = "0345762405"; // mật khẩu
 
    String IMAGE_PATH = "C:\\var\\webapp\\images\\"; // đây là đường dẫn cho folder hình ảnh sản phẩm(imgae.rar) dùng trong project phải tạo folder 
+
 }
+
+# Tải folder images ở đây : https://drive.google.com/file/d/1tFyYT-vEICiEtB-AXCkBLcsslR_DzD1H/view?usp=sharing
