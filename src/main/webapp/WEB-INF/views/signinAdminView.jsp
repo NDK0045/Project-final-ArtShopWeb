@@ -10,7 +10,7 @@
 
 <body class="bg-light">
 <section class="section-content mx-auto" style="margin: 100px 0; max-width: 380px;">
-  <h3 class="mb-3 p-3 text-center bg-primary text-white rounded">Shop Bán Sách</h3>
+  <h3 class="mb-3 p-3 text-center bg-primary text-white rounded">Shop Tranh Sách</h3>
   <div class="card">
     <div class="card-body">
       <c:if test="${not empty requestScope.errorMessage}">
