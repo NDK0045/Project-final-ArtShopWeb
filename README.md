@@ -2,7 +2,7 @@
 
 Final Project_WebProgramming
 
-Src code web bán tranh + database
+Src code web bán tranh + database ( Mình dùng WorkBench để quản lý database)
  
 Chạy file sql trước để tạo local database.
 
