@@ -1,5 +1,9 @@
 # Project-final-ArtShopWeb
 
+Nên sử dụng InteliJ IDE 
+
+Java version 11.0.6
+
 Final Project_WebProgramming
 
 Src code web bán tranh + database ( Mình dùng WorkBench để quản lý database)
